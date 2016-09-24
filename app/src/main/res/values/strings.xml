@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gateaux</string>
+    <string name="hint_edit_text">0</string>
+    <string name="nombre_de_gateaux">Nombre de Gateaux</string>
+    <string name="prix_du_commercant">Prix du Commercant</string>
+    <string name="calculer">Calculer</string>
+    <string name="reinitialiser">Reinitialiser</string>
+</resources>
